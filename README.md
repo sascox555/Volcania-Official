@@ -10,4 +10,4 @@ You may also run `=reportbug` in the Discord server but reporting it here is the
 - Submit the report/request!
 
 # Having issues?
-Contact **SascoOMG#0001** or **Snoopy#0052** in Discord!
+Contact **SascoOMG#0001** or **AL | CustomTea#2000** in Discord!
